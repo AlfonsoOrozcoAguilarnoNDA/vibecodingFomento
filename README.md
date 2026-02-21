@@ -55,6 +55,7 @@ Los perfiles ya están creados. Pasamos a la tabla vacantes. Debe tener un campo
 El analista en vacantes_evaluacion debe ser el nombre de la letra griega, es la llave. Pon dos campos más a tu análisis: uno es archivo o link (para que de ahí se pueda ver la respuesta y que no mentí) y un comentario_evaluador. ¿Se te ocurre algo más?
 
 Ok, por favor usa un entorno de color empresarial, no modo dark. Necesitamos que además los archivos consideren borrar cache, fijar hora en tiempos de México, y que la barra de navegación y la de footer sean fijos.
+
 ---
 *Desarrollado en solitario por el Líder del Proyecto con la asistencia técnica de Gemini.*
 Alfonso Orozco Aguilar
