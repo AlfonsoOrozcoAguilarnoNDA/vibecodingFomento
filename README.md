@@ -14,7 +14,7 @@ El sistema simula un entorno burocrático de una paraestatal donde los analistas
 Este software ha sido desarrollado bajo la metodología de **Vibecoding**, priorizando la fluidez, la intención y la colaboración hombre-máquina.
 
 * **IA Colaboradora:** Gemini 1.5 Flash.
-* **Origen del Prompt:** Basado en la sesión de diseño en [Gemini App](https://gemini.google.com/app/45dc5a630e105ba5).
+* **Origen del Prompt:** Basado en la sesión de diseño en [Gemini App](https://gemini.google.com/share/6e3b780b7302).
 * **Contexto:** Proyecto creado para la sección de análisis **"Viernes Social"** de [vibecodingmexico.com](https://vibecodingmexico.com).
 * **Stack:** PHP 8.x (Procedural), MariaDB/MySQL, Bootstrap 4.6, FontAwesome 5.
 
@@ -22,7 +22,7 @@ Este software ha sido desarrollado bajo la metodología de **Vibecoding**, prior
 Para garantizar que los datos no sean alterados, el sistema cuenta con un bloqueo de escritura hardcoded. Solo la dirección IP autorizada definida en la tabla `config` puede realizar capturas y evaluaciones. El acceso público es estrictamente de **solo lectura** para fines de auditoría y transparencia social.
 
 ## Prompt Aproximado tomado de conversación Publica ##
-Arriba estáel link al origen del prompt.
+Arriba está el link al origen del prompt. https://gemini.google.com/share/6e3b780b7302
 
 Este es un proyecto vibecodingnuevo que harás en solitario. Quizá pienses que en tu entorno hay competencias, no. Este es un software para un experimento SOCIAL de LLM y tú eres el único que hará el código, ok?
 
